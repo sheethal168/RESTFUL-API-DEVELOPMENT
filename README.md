@@ -1,4 +1,10 @@
 # Library Management REST API
+*COMPANY*:CODTECH IT SOLUTIONS
+*NAME*:SHEETHAL S
+*INTERN ID*:CTIS6723
+*DOMAIN*:SOFTWARE DEVELOPMENT
+*DURATION*:4 WEEKS
+*MENTOR*:NEELA SANTOSH
 
 ## Description
 This project is a simple RESTful API for a Library Management System built using Node.js and Express.js. It supports CRUD operations for managing books.
