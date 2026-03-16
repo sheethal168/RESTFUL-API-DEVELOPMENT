@@ -39,7 +39,7 @@ Example:
 POST http://localhost:3000/books
 
 Request Body:
-```json
+
 {
   "title": "Rich Dad Poor Dad",
   "author": "Robert Kiyosaki",
